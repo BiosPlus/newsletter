@@ -1,4 +1,6 @@
 name: Deploy Theme
+permissions:
+  contents: read
 on:
   push:
     branches:
